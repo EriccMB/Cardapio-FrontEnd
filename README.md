@@ -1,6 +1,6 @@
 # Cardápio Digital - FrontEnd
 
-Este Cardápio Digital desenvolvido  usando **React**, **Typescript** e **React Query**.
+Este Cardápio Digital desenvolvido  usando **React**, **Typescript**,  **React Query** e **Toastify**
 
 <h1 align="center">
     <img src="./images/cardapio.jpg" width="300"/>
