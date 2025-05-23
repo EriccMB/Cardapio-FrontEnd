@@ -1,0 +1,34 @@
+.inputBox {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    width: 100%;
+}
+
+.inputBox label {
+    font-size: 20px;
+}
+
+.input {
+    background-color: black;
+    width: 80%;
+    height: 50px;
+    background-color: var(--secondary-background);
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
+.input:hover {
+    opacity: 0.7;
+}
+
+@media (max-width: 1368px) {
+    .input {
+        font-size: 15px;
+        height: 40px;
+    }
+}
