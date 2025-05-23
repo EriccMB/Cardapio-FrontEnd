@@ -2,6 +2,9 @@
 
 Este Cardápio Digital desenvolvido  usando **React**, **Typescript** e **React Query**.
 
-![Cardápio Início l](./images/cardapio.jpg)
-![Cadastro de Item](./images/formulario.jpg)
-![Cadastrado com sucesso](./images/cadastrado.jpg)
+<h1 align="center">
+    <img src="./images/cardapio.jpg" width="300"/>
+    <img src="./images/formulario.jpg.jpg" width="300"/>
+    <img src="./images/cadastrado.jpg.jpg" width="300"/>
+</h1>
+
